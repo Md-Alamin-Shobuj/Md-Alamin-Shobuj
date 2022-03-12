@@ -20,6 +20,8 @@ Skills:  HTML / CSS/ PHP / REACT / JS /API/ VUE JS /BOOTSTRAP/WEB APPLICATION/No
 
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Md-Alamin-Shobuj)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Md-Alamin-Shobuj&show_icons=true&count_private=true)  
